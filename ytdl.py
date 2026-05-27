@@ -2,6 +2,7 @@ import sys
 import subprocess
 
 def main():
+    
     user = input("URL? ")
   
 
@@ -14,6 +15,7 @@ def main():
 
     except subprocess.CalledProcessError:
         print("Download failed, check your URL maybe :0? ")
+    
     
 
 if __name__ == "__main__":
