@@ -4,6 +4,8 @@ A lightweight, customized command-line interface task manager built because I ca
 
 May have some bugs iono about so...help out🤷‍♀️
 
+Help out in the GUI or frontend or UI/UX too if you wish, not at that level yet 🐧
+
 Inspired by SuperProductivity :-), you can find them @:
 
 https://github.com/super-productivity/super-productivity
