@@ -1,6 +1,6 @@
 import random
 
-decide = ["Chess", "French"]
+decide = ["Blackarch", "Kali"]
 
 catch = random.choice(decide)
 
